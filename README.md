@@ -1,3 +1,8 @@
-# My Awesome Book
+# My Awesome Book to my dearest girfriend
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+This book is written for my lovely girlfriend WangLing.
+
+It begins at 2018-4-11,and we can wait and see when it will be finished!
+

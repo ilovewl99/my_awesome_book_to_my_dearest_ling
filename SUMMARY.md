@@ -33,4 +33,5 @@
   * [常用的副词、介词](chapter-threecai-niu-ou-xin-li-xie-gan-8d2729/chang-yong-de-fu-ci-3001-jie-ci.md)
   * [再美的句子也没有你美](chapter-threecai-niu-ou-xin-li-xie-gan-8d2729/zai-mei-de-ju-zi-ye-mei-you-ni-mei.md)
   * [考研英语tips](chapter-threecai-niu-ou-xin-li-xie-gan-8d2729/kao-yan-ying-yu-tips.md)
+  * [打鸡血帖](chapter-threecai-niu-ou-xin-li-xie-gan-8d2729/da-ji-xie-tie.md)
 

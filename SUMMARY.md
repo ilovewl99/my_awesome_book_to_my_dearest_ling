@@ -11,6 +11,11 @@
 * [chapter two\(grammar strengthening\)](chapter-twogrammar-strengthening.md)
   * [About](chapter-twogrammar-strengthening/about.md)
   * [从句篇](chapter-twogrammar-strengthening/cong-ju-pian.md)
+    * [总纲](chapter-twogrammar-strengthening/cong-ju-pian/zong-gang.md)
+    * 宾语从句
+    * [定语从句](chapter-twogrammar-strengthening/cong-ju-pian/ding-yu-cong-ju.md)
+    * 状语从句
+    * 表语从句
   * 祈使句
   * 否定句
   * 倒装句

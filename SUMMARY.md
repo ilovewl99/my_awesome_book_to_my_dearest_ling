@@ -16,9 +16,12 @@
     * [定语从句](chapter-twogrammar-strengthening/cong-ju-pian/ding-yu-cong-ju.md)
     * 状语从句
     * 表语从句
+    * [同位语从句](chapter-twogrammar-strengthening/cong-ju-pian/tong-wei-yu-cong-ju.md)
   * 祈使句
   * 否定句
   * 倒装句
+  * 独立主格
+  * 虚拟语气
 * [chapter three\(菜牛呕心沥血干货\)](chapter-threecai-niu-ou-xin-li-xie-gan-8d2729.md)
   * [作者态度的形容词](chapter-threecai-niu-ou-xin-li-xie-gan-8d2729/zuo-zhe-tai-du-de-xing-rong-ci.md)
   * [常用的副词、介词](chapter-threecai-niu-ou-xin-li-xie-gan-8d2729/chang-yong-de-fu-ci-3001-jie-ci.md)

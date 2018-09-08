@@ -4,7 +4,7 @@
 
 很想念玲！
 
-永远爱你![](file:///D:\Baidu\BaiduPinyin\5.2.4314.0\dict\emotionword\397EAE85DB7AF094777BC29FFB57AAF4.png)
+永远爱你!(手动小心心)
 
 
 

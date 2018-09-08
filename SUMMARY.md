@@ -19,7 +19,7 @@
     * [同位语从句](chapter-twogrammar-strengthening/cong-ju-pian/tong-wei-yu-cong-ju.md)
   * 祈使句
   * 否定句
-  * 倒装句
+  * [倒装句](chapter-twogrammar-strengthening/dao-zhuang-ju.md)
   * [独立主格](chapter-twogrammar-strengthening/du-li-zhu-ge.md)
   * [虚拟语气](chapter-twogrammar-strengthening/xu-ni-yu-qi.md)
 * [chapter three\(菜牛呕心沥血干货\)](chapter-threecai-niu-ou-xin-li-xie-gan-8d2729.md)

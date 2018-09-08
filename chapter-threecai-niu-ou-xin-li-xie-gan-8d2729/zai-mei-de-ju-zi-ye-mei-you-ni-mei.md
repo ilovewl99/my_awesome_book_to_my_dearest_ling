@@ -5,7 +5,7 @@
 
 下面这篇是我从必应上面复制过来的文章：
 
-原文链接：https://www.topnewsjournal.com/2018/09/06/new-york-scientists-use-new-dna-tools-to-identify-9-11-victims/
+原文链接：[https://www.topnewsjournal.com/2018/09/06/new-york-scientists-use-new-dna-tools-to-identify-9-11-victims/](https://www.topnewsjournal.com/2018/09/06/new-york-scientists-use-new-dna-tools-to-identify-9-11-victims/)
 
 # New York scientists use new DNA tools to identify 9/11 victims
 
@@ -47,11 +47,61 @@ Desire praised the chief medical examiner who decided in 2001 to preserve human 
 
 “If we did not take that step back in 2001, those remains would have continued to degrade and decompose（分解） and the DNA identifications we’re making this year probably would not be possible,” Desire said.
 
-
-
 好吧，看了一遍没啥好句子，尴尬。
 
 ---
 
+￼
 
+
+
+ 
+
+
+
+How 3D printers are preparing students for life after high school
+
+
+
+By Bill Gates \| September 5, 2018
+
+
+
+I was 13 years old when I fell in love with programming. My school had just become one of the first in the country to get a computer terminal. The machine was huge and slow, and it didn’t even have a screen—but I was hooked. My friends and I would spend hours creating new programs and plugging away in BASIC.
+
+
+
+That introduction to computer science changed the course of my life. I recently visited a high school that hopes to do the same for young people in New York.
+
+
+
+The Academy for Software Engineering—or AFSE—is a public high school located in Manhattan. Opened in 2012, it has a pretty amazing curriculum that uses computer science concepts to help students get ready for college. All students learn the basics of computer science during their first two years. When they become juniors, they choose to specialize in either programming or design. Not every student that graduates from AFSE will become a programmer or a software engineer, though, so they also take a full course load of non-specialized classes \(like English and social studies\).
+
+
+
+Unlike some specialized schools, there are no criteria for admission. Rising freshmen in New York City get assigned to public schools through a lottery system. Any student can apply to attend AFSE, and their grades and attendance record have no bearing on their chances of getting picked. The result is an incredibly diverse student body from all over the city \(although they’re trying to get more girls to apply\).
+
+
+
+I had the opportunity to sit in one of the design classes offered to upperclassmen. The teacher divided the students into small groups and asked them to create a holder for their headphones. Using modeling software and a 3D printer, they had to design a project that considered function, durability, and user friendliness.
+
+
+
+Each team had a different approach. Some were working on a clamp that attached their headphones to the edge of the table, and others opted for a stand that would sit on the desk. I was blown away by how well thought out each design was. \(You can see several of their projects in the video above.\)
+
+
+
+The school’s unique curriculum is particularly beneficial to some students who may have struggled in middle school. English language learners and students with disabilities seem to thrive at AFSE, since computer science focuses more on numbers and less on language skills. These students benefit from the way even non-specialized classes weave in computer science concepts—for example, a history teacher might ask a student to design a webpage about the War of 1812 instead of preparing an oral presentation.
+
+
+
+The school enrolls fewer than 500 kids, so class sizes are small, and students get lots of personal attention. Everyone receives a tailored graduation plan. Teachers can log in to a shared data portal to track how a particular student is progressing. When that student becomes a senior, the school uses the portal to identify gaps and finish off areas that aren’t quite complete. This data portal is used not only at AFSE but across a network of schools in New York called New Visions for Public Schools. Our foundation recently announced that we would help fund New Visions’ efforts to expand this data portal, among other things.
+
+
+
+As freshmen, students are also assigned an advisor who can help them adjust to high school and eventually start thinking about post-graduation plans. These advisors act as liaisons with family and make sure that every single student is known well by an adult at the school. It’s an impressive system that helps ensure no one falls through the cracks. This sort of personalized attention is exactly what people have in mind when they talk about smaller high schools.
+
+
+
+I think everyone can benefit from learning the basics of computer science. The questions it teaches you to ask—How do you accomplish a task? Can you find a pattern? What data do you need?—are useful no matter where you go in life. Computer science helped shape the way I think about the world. I hope it does the same for the students I met at the Academy for Software Engineering.
 

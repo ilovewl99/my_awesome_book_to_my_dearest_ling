@@ -12,7 +12,7 @@
   * [About](chapter-twogrammar-strengthening/about.md)
   * [从句篇](chapter-twogrammar-strengthening/cong-ju-pian.md)
     * [总纲](chapter-twogrammar-strengthening/cong-ju-pian/zong-gang.md)
-    * 宾语从句
+    * [宾语从句](chapter-twogrammar-strengthening/cong-ju-pian/bin-yu-cong-ju.md)
     * [定语从句](chapter-twogrammar-strengthening/cong-ju-pian/ding-yu-cong-ju.md)
     * 状语从句
     * 表语从句

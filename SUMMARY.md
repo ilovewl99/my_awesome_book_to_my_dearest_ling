@@ -6,5 +6,16 @@
   * [菜牛对完形填空的认识](chapter-one/cai-niu-dui-wan-xing-tian-kong-de-ren-shi.md)
   * [菜牛对阅读理解的理解](chapter-one/cai-niu-dui-yue-du-li-jie-de-li-jie.md)
   * [菜牛翻译教学](chapter-one/cai-niu-fan-yi-jiao-xue.md)
+  * [菜牛不知道如何教你选词填空](chapter-one/cai-niu-bu-zhi-dao-ru-he-jiao-ni-xuan-ci-tian-kong.md)
   * [菜牛教你如何攒作文](chapter-one/cai-niu-jiao-ni-ru-he-zan-zuo-wen.md)
+* [chapter two\(grammar strengthening\)](chapter-twogrammar-strengthening.md)
+  * [About](chapter-twogrammar-strengthening/about.md)
+  * [从句篇](chapter-twogrammar-strengthening/cong-ju-pian.md)
+  * 祈使句
+  * 否定句
+  * 倒装句
+* [chapter three\(菜牛呕心沥血干货\)](chapter-threecai-niu-ou-xin-li-xie-gan-8d2729.md)
+  * [作者态度的形容词](chapter-threecai-niu-ou-xin-li-xie-gan-8d2729/zuo-zhe-tai-du-de-xing-rong-ci.md)
+  * 常用的副词、介词
+  * 再美的句子也没有你美
 

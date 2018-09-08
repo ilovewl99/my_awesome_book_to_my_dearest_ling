@@ -1,3 +1,11 @@
+从句是相对于主句而言的，即它是从属于某一个主句，而不能单独作一个句子。在英语中，主要有三大从句，即：
+
+1. 名词性从句\(包括主语从句，宾语从句，表语从句，同位语从句\)
+2. 形容词性从句\(即定语从句\)
+3. 副词性从句\(即状语从句，包括时间、条件、结果、目的、原因、让步、地点、方式等\)
+
+---
+
 一、[定语从句](http://www.yingyuyufa.com/congju/dingyu/)
 
 在复合句中， 修饰[名词](http://www.yingyuyufa.com/cixing/mingci/)或[代词](http://www.yingyuyufa.com/cixing/daici/)的从句叫定语从句，被修饰的名词或代词叫先行词，引导定语从句的有关系代词 who, whom, whose, which, that等和关系[副词](http://www.yingyuyufa.com/cixing/fuci/)where, when, why等，关系代词和关系副词在定语从句中担任句子成份。
@@ -24,16 +32,13 @@ I'll never forget the day when I met Mr Li for the first time.
 
 注意：先行词是表示地点时，如果从句的谓语动词是及物的，就用 that\(which\)，如果从句的谓语动词是不及物的，就用where引导。This is the house Which /that he has lived in for 15 years.\(Where he has lived for 15 year.\)
 
-7. 限制性定语从句和非限制性定语从句
+1. 限制性定语从句和非限制性定语从句
 
 \(1\)限制性定语从句是句中不可缺少的组成部分，主句和从句之间不用逗号分开。引导非限制性定语从句的关系代词有who, whom, whose, which, of which等，这些关系代词都不能省略。
 
 \(2\)非限制性定语从句是对主句先行词的补充说明，没有这种从句，不影响主句意思的完整，一般用逗号把主句和从句分开， 关系代词用 which,不用that;指人时可用who,如 ：I have two brothers, who are both students.
 
-
-
-  
- 二、[状语从句](http://www.yingyuyufa.com/congju/zhuangyu/)
+二、[状语从句](http://www.yingyuyufa.com/congju/zhuangyu/)
 
 由从句担任的状语，在句子中可修饰谓语（或其它动词）、[形容词](http://www.yingyuyufa.com/cixing/xingrongci/)、副词或是整个句子，它可以用来表示时间、地点、原因、目的、结果、条件、方式、比较、让步等。要引起重视。
 
@@ -129,8 +134,6 @@ He smokes cigarettes as expensive as he can afford.
 
 The busier he is, the happier he feels.
 
-
-
 三、[名词性从句](http://www.yingyuyufa.com/congju/mingcixing/)
 
 在句子中起名词作用的句子叫名词从句 \(Noun Clauses）。 名词从句的功能相当于名词词组, 它在复合句中能担任主语、宾语、表语、同位语、介词宾语等，因此根据它在句中不同的语法功能，名词从句又可分别称为主语从句、[宾语从句](http://www.yingyuyufa.com/congju/mingcixing/binyu/)、表语从句和[同位语从句](http://www.yingyuyufa.com/congju/mingcixing/tongweiyu/)。
@@ -182,4 +185,8 @@ That's just what I want. 这正是我想要的。
 The news that we won the game is exciting.　我们赢得这场比赛的消息令人激动。
 
 I have no idea when he will come back home. 我不知道他什么时候回来。
+
+---
+
+小牛觉得最困难的部分是引导词的选择，高中的时候经常被这些搞的很爽。
 

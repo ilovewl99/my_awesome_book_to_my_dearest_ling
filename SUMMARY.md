@@ -17,8 +17,12 @@
     * 状语从句
     * 表语从句
     * [同位语从句](chapter-twogrammar-strengthening/cong-ju-pian/tong-wei-yu-cong-ju.md)
-  * 祈使句
-  * 否定句
+  * [祈使句](chapter-twogrammar-strengthening/qi-shi-ju.md)
+  * [否定句](chapter-twogrammar-strengthening/fou-ding-ju.md)
+    * [否定句的常见缩写形式](chapter-twogrammar-strengthening/fou-ding-ju/fou-ding-ju-de-chang-jian-suo-xie-xing-shi.md)
+    * 否定转移
+    * [双重否定](chapter-twogrammar-strengthening/fou-ding-ju/shuang-zhong-fou-ding.md)
+    * [常见的否定词](chapter-twogrammar-strengthening/fou-ding-ju/chang-jian-de-fou-ding-ci.md)
   * [倒装句](chapter-twogrammar-strengthening/dao-zhuang-ju.md)
   * [独立主格](chapter-twogrammar-strengthening/du-li-zhu-ge.md)
   * [虚拟语气](chapter-twogrammar-strengthening/xu-ni-yu-qi.md)

@@ -21,7 +21,7 @@
   * 否定句
   * 倒装句
   * [独立主格](chapter-twogrammar-strengthening/du-li-zhu-ge.md)
-  * 虚拟语气
+  * [虚拟语气](chapter-twogrammar-strengthening/xu-ni-yu-qi.md)
 * [chapter three\(菜牛呕心沥血干货\)](chapter-threecai-niu-ou-xin-li-xie-gan-8d2729.md)
   * [作者态度的形容词](chapter-threecai-niu-ou-xin-li-xie-gan-8d2729/zuo-zhe-tai-du-de-xing-rong-ci.md)
   * [常用的副词、介词](chapter-threecai-niu-ou-xin-li-xie-gan-8d2729/chang-yong-de-fu-ci-3001-jie-ci.md)

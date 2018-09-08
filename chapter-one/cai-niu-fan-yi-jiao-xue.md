@@ -25,5 +25,29 @@
 
 ---
 
+举个栗子撒：
+
+Washington, who had begun to believe that all men were created equal after observing the bravery of the black soldiers during the Revolutionary War, overcame the strong opposition of his relatives to grant his slaves their freedom in his will.
+
+**第一步：划结构，抓住干。**
+
+　　拿到一个[考研英语](http://kaoyan.koolearn.com/yingyu/)长难句应该先切分结构，从而抓出句子主干，这是翻译句子的第一步。因为句子过长，对于大多数人而言都无法第一时间理清意思，所以要给句子分段，抓主要意思。这句话中两个逗号间是插入的定语从句，主干为Washington overcame the strong opposition of his relatives to grant his slaves their freedom in his will.定语从句主干：who had begun to believe that all men were created equal，他开始相信人人生来平等。
+
+**第二步：分成分，组意思。**
+
+　　长难句主干划分出之后，分句中还有一些成分比较长，需要进一步区分成分，overcame the strong opposition of his relatives克服了亲属的强烈反对，to grant his slaves their freedom in his will，grant之后是双宾语，赋予他的奴隶以自由。定语从句中出现了一个非常重要的现在分词结构作状语，根据语义关联确定为时间状语。during the Revolutionary War也是时间状语。
+
+**第三步：调语序，理通顺。**
+
+　　各个成分确定了之后再看是否需要语序调整，比如 to grant his slaves their freedom in his will双宾语顺译可以，而after observing the bravery of the black soldiers during the Revolutionary War放在原来的位置就不可以了，汉语习惯是时间状语前置，所以需要调整。“在解放战争中观察到了黑人士兵的勇敢之后，华盛顿开始相信人人生而平等”。最后正对定语从句的位置也需要调整，因为从句较长，所以采用拆分法。
+
+　　全句的译文如下：“在解放战争中观察到了黑人士兵的勇敢之后，华盛顿开始相信人人生而平等，之后他便克服了亲属的强烈反对，在遗嘱当中赋予了他的奴隶以自由。”
+
+
+
+要真正提高对考研英语长难句理解的水平，就需要有正确的翻译方法指导，再加上平时勤加练习，才能真正提升翻译能力。
+
+---
+
 玲的动感光波好刺眼啊，啊，我的眼睛...
 
